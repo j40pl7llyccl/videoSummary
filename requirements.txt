@@ -1,0 +1,6 @@
+faster-whisper
+ollama
+yt-dlp
+streamlit
+opencv-python
+google-generativeai
